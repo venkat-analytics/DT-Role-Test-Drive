@@ -24,7 +24,7 @@ This prevents the doctor from being involved in routine, repeatable communicatio
 
 This classification ensures doctor attention is used only where judgment is required.
 
-⏱️ Time: ~20 minutes (one-time)
+Time: 20 minutes (one-time)
 
 ---
 
